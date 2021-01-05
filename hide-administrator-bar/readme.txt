@@ -1,9 +1,10 @@
 === Hide Administrator Bar ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Hide Administrator Bar, hide admin bar, admin bar hide, wordpress admin bar hide, wordpress admin bar, admin bar wordpress, admin bar wordpress hide.
-Requires at least: 4.6
-Tested up to: 5.2.4
+Requires at least: 5.0 or higher
+Tested up to: 5.6
 Stable tag: 5.0
+PHP Version: 5.6 or higher
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +28,9 @@ Using this plugin administrator can hide the "Admin Bar" for any user role in th
 2. screenshot-2 - Admin can select more than one user role.
 
 == Changelog ==
+
+= 3.0.0 =
+* Compatibility changes to make it work with latest WordPress version.
 
 = 2.0.0 =
 * Moved configuration menu under "Tools" Menu in backend.
